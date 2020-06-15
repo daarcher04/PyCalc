@@ -27,4 +27,5 @@ def Trig1() :
     f.write ("The tangent is ")
     f.write (str(t))
     f.write ("\n")
+    f.write ("\n")
 
